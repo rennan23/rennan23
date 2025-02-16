@@ -10,7 +10,7 @@
 -  <br>
 - redes social.
 -  <a href="https://www.instagram.com/ferreira_gooo23?igsh=NXBtNDhkZTk0YXV6&utm_source=qr" ><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/><a/>
--  
+-  <a href="https://www.facebook.com/share/1BVW4aAsCD/?mibextid=wwXIfr"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"><a/>
 <!---
 rennan23/rennan23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
